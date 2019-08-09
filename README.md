@@ -125,6 +125,7 @@ This ontology has the following classes and properties.
 `formal organization c`
 `is also defined as`
 `named individual`
+
 ----
 ### Data Properties
 #### Profit
