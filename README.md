@@ -13,20 +13,20 @@ This Ontology of companies & entrepreneurs accounting statement was designed to 
 ## Contents
 
 1. Introduction
-1.1. Namespaces
-1.1.1. Namespaces used in the document
+    1. Namespaces
+        1. Namespaces used in the document
 2. Overview
-2.1. Object Properties
-2.2. Data Properties
-2.3. Named Individuals
+    1. Object Properties
+    2. Data Properties
+    3. Named Individuals
 3.  Description of Data cube
-3.1. Dimensions
-3.2. Measures
+    1. Dimensions
+    2. Measures
 4. Cross references: classes, properties and dataproperties
-4.1. Object Properties
-4.2. Data Properties
-4.3. Named Individuals
-4.4. Convention
+    1. Object Properties
+    2. Data Properties
+    3. Named Individuals
+    4. Convention
 
 
 ## Introduction
